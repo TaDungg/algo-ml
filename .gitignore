@@ -9,3 +9,6 @@ data/
 # Thông tin bí mật (API key broker ở tuần 11)
 .env
 *.secret.*
+
+# Sổ học tập Ágora – riêng tư, không đẩy lên GitHub
+agora-notebook/
