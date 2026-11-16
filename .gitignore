@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Dữ liệu – tái tạo bằng src/data.py, không đẩy lên GitHub
+data/
+
+# Thông tin bí mật (API key broker ở tuần 11)
+.env
+*.secret.*

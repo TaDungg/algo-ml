@@ -1,0 +1,1 @@
+Learning systematic trading in 3 months
